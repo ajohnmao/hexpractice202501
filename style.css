@@ -6,5 +6,5 @@ h1{
 p{
     color: brown;
     font-size: 20px;
-    border: rebeccapurple solid 5px;
+    border-bottom: rebeccapurple solid 5px ;
 }
